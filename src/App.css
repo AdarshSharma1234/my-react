@@ -8,7 +8,6 @@
     border:2px solid black;
     padding:10px;
     text-align: center;
-    background-color: rgb(162, 0, 255);
     border-radius: 6px;
     box-shadow: #262527;
     
@@ -21,4 +20,12 @@
     padding: 10px;
     background-color: black;
     color: wheat;
+}
+.btn:hover{
+    background-color: rgb(25, 25, 70);
+    transition-duration: 2s;
+}
+p{
+    color: black;
+    font-size: smaller;
 }
